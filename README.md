@@ -18,6 +18,6 @@ My task is to,
 
 # Environmental Variables
 
-To run this project, you need download Chrome web Driver and set the path.
+To run this project, you need download Firefox web Driver and set the path.
 
 https://github.com/mozilla/geckodriver/releases
