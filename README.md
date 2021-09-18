@@ -1,3 +1,5 @@
+# Selenium-Automation-Testing
+
 Hello people, I've completed my Selenium Automation Scripting task (TASK 6) as a Web Development Intern under GRADUATE ROTATIONAL INTERNSHIP PROGRAM (i.e) GRIP by the Sparks Foundation. In this project I used Selenium to create a test case to test the website thesparksfoundation.sg.
 
 My task is to,
@@ -13,3 +15,9 @@ My task is to,
 ◇ The test script should check of at least 5 pages and 10 elements in total.
 
 ◇ Each element could be e.g. if the Logo exists, the navigation bar appears, the name on about us page is correct, etc.
+
+# Environmental Variables
+
+To run this project, you need download Chrome web Driver and set the path.
+
+https://github.com/mozilla/geckodriver/releases
